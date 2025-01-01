@@ -165,3 +165,5 @@ nextButton.addEventListener("click", () => {
   }
 });
 startQuiz();
+
+// Script Comment
